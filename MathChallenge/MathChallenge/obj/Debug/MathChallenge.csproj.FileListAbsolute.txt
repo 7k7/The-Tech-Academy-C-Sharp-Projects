@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathChallenge\MathChallenge\bin\Debug\MathChallenge.exe.config
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathChallenge\MathChallenge\bin\Debug\MathChallenge.exe
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathChallenge\MathChallenge\bin\Debug\MathChallenge.pdb
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathChallenge\MathChallenge\obj\Debug\MathChallenge.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathChallenge\MathChallenge\obj\Debug\MathChallenge.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathChallenge\MathChallenge\obj\Debug\MathChallenge.exe
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathChallenge\MathChallenge\obj\Debug\MathChallenge.pdb
