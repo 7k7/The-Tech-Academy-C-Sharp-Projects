@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathAndComparisonOpsSubmissionAssignment\MathAndComparisonOpsSubmissionAssignment\bin\Debug\MathAndComparisonOpsSubmissionAssignment.exe.config
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathAndComparisonOpsSubmissionAssignment\MathAndComparisonOpsSubmissionAssignment\bin\Debug\MathAndComparisonOpsSubmissionAssignment.exe
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathAndComparisonOpsSubmissionAssignment\MathAndComparisonOpsSubmissionAssignment\bin\Debug\MathAndComparisonOpsSubmissionAssignment.pdb
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathAndComparisonOpsSubmissionAssignment\MathAndComparisonOpsSubmissionAssignment\obj\Debug\MathAndComparisonOpsSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathAndComparisonOpsSubmissionAssignment\MathAndComparisonOpsSubmissionAssignment\obj\Debug\MathAndComparisonOpsSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathAndComparisonOpsSubmissionAssignment\MathAndComparisonOpsSubmissionAssignment\obj\Debug\MathAndComparisonOpsSubmissionAssignment.exe
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathAndComparisonOpsSubmissionAssignment\MathAndComparisonOpsSubmissionAssignment\obj\Debug\MathAndComparisonOpsSubmissionAssignment.pdb
