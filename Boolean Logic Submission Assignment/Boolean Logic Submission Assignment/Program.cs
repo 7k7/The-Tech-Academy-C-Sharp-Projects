@@ -12,71 +12,37 @@ namespace Boolean_Logic_Submission_Assignment
         {
             // Application questions for the applicant
 
-            // Request user input; must be a number only.
-            Console.WriteLine("What is your age?");
-            string userInputAge = Console.ReadLine();
+            // Variables to ues later for comparisons
             int age = 0;
-
-            try // will catch any invalid user input; must be a number
-            {
-                age = Int32.Parse(userInputAge);
-            }
-            catch (FormatException) 
-            { 
-                Console.WriteLine($"Your input, '{userInputAge}', is not a valid number for your age.");
-            }
- 
-            // Request a true or false answer to the question.
-            Console.WriteLine("true or false: Have you ever had a DUI?");
-            string userDui = Console.ReadLine().ToLower();// makes sure it is lower cased to avoid boolean casting issues
+            int tickets = 0;
             bool isDui = true;
 
-            // Check user input is valid. 
-            try
-            {
-                if (userDui is string) // make sure it is a string value
-                {
-                    // Makes sure it is a boolean value
-                    if (Boolean.Parse(userDui) is Boolean)
-                    { isDui = Boolean.Parse(userDui); }
-                }
-            }
-            catch (FormatException)
-            {
-                Console.WriteLine($"Your input, '{userDui}', is not a valid response.");
-                return;
-            }
-
+            // Request user input a valid number
+            Console.WriteLine("What is your age?");
+            string userInputAge = Console.ReadLine();
+            // Request a true or false answer to the question.
+            Console.WriteLine("true or false: Have you ever had a DUI?");
+            // makes sure it is lower cased to avoid boolean casting issues
+            string userDui = Console.ReadLine().ToLower();
             // Request a number of speeding tickets from user
             Console.WriteLine("How many speeding tickets do you have");
             string userTickets = Console.ReadLine();
-            int tickets = 0;
 
-            // Check user input is a valid value/number
-            try
+            try // will catch any invalid user input;
             {
-                if (userTickets is string)
-                {
-                    if (Int32.Parse(userTickets) is int)
-                    {
-                        tickets = Int32.Parse(userTickets);
-                    }
-                    else 
-                    {
-                        Console.WriteLine($"Your input, '{userTickets}', is not an integer.");
-                        return;
-                    }
-                }
-            }
-            catch (FormatException e)
-            {
-                Console.WriteLine($"User input is invalid: '{userTickets}'... " + e.Message);
-            }
+                age = Int32.Parse(userInputAge);
+                isDui = Boolean.Parse(userDui);
+                tickets = Int32.Parse(userTickets);
 
-            // Check and compare user data against the following qualification rules for car insurance
-            bool isQualified = (age > 15 && isDui is false && tickets <= 3);
-            Console.WriteLine("According to the qualification rules, do we deem you qualified for car insurance?");
-            Console.WriteLine(isQualified.ToString());
+                // Check and compare user data against the following qualification rules for car insurance
+                bool isQualified = (age > 15 && isDui is false && tickets <= 3);
+                Console.WriteLine("According to the qualification rules, do we deem you qualified for car insurance?");
+                Console.WriteLine(isQualified.ToString());
+            }
+            catch (FormatException e) 
+            { 
+                Console.WriteLine($"Your input is invalid: " + e.Message);
+            }
         }
     }
 }
