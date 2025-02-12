@@ -27,7 +27,7 @@ namespace Branching_Submission_Assignment
 
             // Request for length input
             Console.WriteLine("Please enter the package length:");
-            int length = Convert.ToInt32(Console.ReadLine());
+            int length = Convert.ToInt32(Console.ReadLine()); 
 
             // Evaluate user input 
             if (weight > 50)
