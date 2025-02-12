@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\OperatorChallenge\OperatorChallenge\bin\Debug\OperatorChallenge.exe.config
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\OperatorChallenge\OperatorChallenge\bin\Debug\OperatorChallenge.exe
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\OperatorChallenge\OperatorChallenge\bin\Debug\OperatorChallenge.pdb
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\OperatorChallenge\OperatorChallenge\obj\Debug\OperatorChallenge.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\OperatorChallenge\OperatorChallenge\obj\Debug\OperatorChallenge.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\OperatorChallenge\OperatorChallenge\obj\Debug\OperatorChallenge.exe
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\OperatorChallenge\OperatorChallenge\obj\Debug\OperatorChallenge.pdb
