@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Six_Part_Console_App_Sub_Assignment\Six_Part_Console_App_Sub_Assignment\bin\Debug\Six_Part_Console_App_Sub_Assignment.exe.config
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Six_Part_Console_App_Sub_Assignment\Six_Part_Console_App_Sub_Assignment\bin\Debug\Six_Part_Console_App_Sub_Assignment.exe
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Six_Part_Console_App_Sub_Assignment\Six_Part_Console_App_Sub_Assignment\bin\Debug\Six_Part_Console_App_Sub_Assignment.pdb
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Six_Part_Console_App_Sub_Assignment\Six_Part_Console_App_Sub_Assignment\obj\Debug\Six_Part_Console_App_Sub_Assignment.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Six_Part_Console_App_Sub_Assignment\Six_Part_Console_App_Sub_Assignment\obj\Debug\Six_Part_Console_App_Sub_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Six_Part_Console_App_Sub_Assignment\Six_Part_Console_App_Sub_Assignment\obj\Debug\Six_Part_Console_App_Sub_Assignment.exe
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Six_Part_Console_App_Sub_Assignment\Six_Part_Console_App_Sub_Assignment\obj\Debug\Six_Part_Console_App_Sub_Assignment.pdb

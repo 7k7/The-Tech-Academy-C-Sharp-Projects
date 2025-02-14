@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Six_Part_Console_App_Sub_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C83946BB-A3ED-4AA2-948E-F15E6438E34D}|Six_Part_Console_App_Sub_Assignment\\Six_Part_Console_App_Sub_Assignment.csproj|c:\\users\\user\\documents\\github\\the-tech-academy-c-sharp-projects\\six_part_console_app_sub_assignment\\six_part_console_app_sub_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83946BB-A3ED-4AA2-948E-F15E6438E34D}|Six_Part_Console_App_Sub_Assignment\\Six_Part_Console_App_Sub_Assignment.csproj|solutionrelative:six_part_console_app_sub_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Six_Part_Console_App_Sub_Assignment\\Six_Part_Console_App_Sub_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Six_Part_Console_App_Sub_Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Six_Part_Console_App_Sub_Assignment\\Six_Part_Console_App_Sub_Assignment\\Program.cs*",
+              "RelativeToolTip": "Six_Part_Console_App_Sub_Assignment\\Program.cs*",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T23:42:43.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
