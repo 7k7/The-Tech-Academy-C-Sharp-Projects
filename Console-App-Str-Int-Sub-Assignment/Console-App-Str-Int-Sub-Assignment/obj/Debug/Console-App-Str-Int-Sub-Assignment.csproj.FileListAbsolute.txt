@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Console-App-Str-Int-Sub-Assignment\Console-App-Str-Int-Sub-Assignment\bin\Debug\Console-App-Str-Int-Sub-Assignment.exe.config
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Console-App-Str-Int-Sub-Assignment\Console-App-Str-Int-Sub-Assignment\bin\Debug\Console-App-Str-Int-Sub-Assignment.exe
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Console-App-Str-Int-Sub-Assignment\Console-App-Str-Int-Sub-Assignment\bin\Debug\Console-App-Str-Int-Sub-Assignment.pdb
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Console-App-Str-Int-Sub-Assignment\Console-App-Str-Int-Sub-Assignment\obj\Debug\Console-App-Str-Int-Sub-Assignment.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Console-App-Str-Int-Sub-Assignment\Console-App-Str-Int-Sub-Assignment\obj\Debug\Console-App-Str-Int-Sub-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Console-App-Str-Int-Sub-Assignment\Console-App-Str-Int-Sub-Assignment\obj\Debug\Console-App-Str-Int-Sub-Assignment.exe
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Console-App-Str-Int-Sub-Assignment\Console-App-Str-Int-Sub-Assignment\obj\Debug\Console-App-Str-Int-Sub-Assignment.pdb
