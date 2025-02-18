@@ -25,6 +25,9 @@ namespace TwentyOne
             //// Anothre property assignment
             //cardOne.Suit = "Spades";
 
+            // another option - Object Initialization //
+            //Card card = new Card() { Face = "King", Suit = "Spades" };
+
             //// Print to console
             //Console.WriteLine($"{cardOne.Face} of {cardOne.Suit}");
 
@@ -81,7 +84,17 @@ namespace TwentyOne
             // May contain parameters or not
             // Methods have to be part of a class
             // If a method should be used without instantiating an object
-            // of that same class, then it should be marked 'static'        }
+            // of that same class, then it should be marked 'static'        
+
+
+            // TwentyOneGame method //
+
+            //TwentyOneGame game = new TwentyOneGame();
+            //game.Players = new List<string>() { "Jesse", "Bill", "Joe" };
+            //game.ListPlayers();
+            //game.Play();
+
+            //Console.ReadLine();
         }
     }
 }
