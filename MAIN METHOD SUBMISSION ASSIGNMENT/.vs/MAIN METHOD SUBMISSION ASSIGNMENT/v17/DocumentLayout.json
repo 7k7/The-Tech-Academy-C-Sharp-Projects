@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\MAIN METHOD SUBMISSION ASSIGNMENT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31ED98D1-2BAA-4F56-B595-68755074C952}|MAIN METHOD SUBMISSION ASSIGNMENT\\MAIN METHOD SUBMISSION ASSIGNMENT.csproj|c:\\users\\user\\documents\\github\\the-tech-academy-c-sharp-projects\\main method submission assignment\\main method submission assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31ED98D1-2BAA-4F56-B595-68755074C952}|MAIN METHOD SUBMISSION ASSIGNMENT\\MAIN METHOD SUBMISSION ASSIGNMENT.csproj|solutionrelative:main method submission assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{31ED98D1-2BAA-4F56-B595-68755074C952}|MAIN METHOD SUBMISSION ASSIGNMENT\\MAIN METHOD SUBMISSION ASSIGNMENT.csproj|c:\\users\\user\\documents\\github\\the-tech-academy-c-sharp-projects\\main method submission assignment\\main method submission assignment\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31ED98D1-2BAA-4F56-B595-68755074C952}|MAIN METHOD SUBMISSION ASSIGNMENT\\MAIN METHOD SUBMISSION ASSIGNMENT.csproj|solutionrelative:main method submission assignment\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31ED98D1-2BAA-4F56-B595-68755074C952}|MAIN METHOD SUBMISSION ASSIGNMENT\\MAIN METHOD SUBMISSION ASSIGNMENT.csproj|c:\\users\\user\\documents\\github\\the-tech-academy-c-sharp-projects\\main method submission assignment\\main method submission assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31ED98D1-2BAA-4F56-B595-68755074C952}|MAIN METHOD SUBMISSION ASSIGNMENT\\MAIN METHOD SUBMISSION ASSIGNMENT.csproj|solutionrelative:main method submission assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,13 +26,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MathOperations.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\MAIN METHOD SUBMISSION ASSIGNMENT\\MAIN METHOD SUBMISSION ASSIGNMENT\\MathOperations.cs",
               "RelativeDocumentMoniker": "MAIN METHOD SUBMISSION ASSIGNMENT\\MathOperations.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\MAIN METHOD SUBMISSION ASSIGNMENT\\MAIN METHOD SUBMISSION ASSIGNMENT\\MathOperations.cs*",
-              "RelativeToolTip": "MAIN METHOD SUBMISSION ASSIGNMENT\\MathOperations.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\MAIN METHOD SUBMISSION ASSIGNMENT\\MAIN METHOD SUBMISSION ASSIGNMENT\\MathOperations.cs",
+              "RelativeToolTip": "MAIN METHOD SUBMISSION ASSIGNMENT\\MathOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T06:09:13.225Z",
               "EditorCaption": ""
@@ -60,13 +60,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\MAIN METHOD SUBMISSION ASSIGNMENT\\MAIN METHOD SUBMISSION ASSIGNMENT\\Program.cs",
               "RelativeDocumentMoniker": "MAIN METHOD SUBMISSION ASSIGNMENT\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\MAIN METHOD SUBMISSION ASSIGNMENT\\MAIN METHOD SUBMISSION ASSIGNMENT\\Program.cs*",
-              "RelativeToolTip": "MAIN METHOD SUBMISSION ASSIGNMENT\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA6AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\MAIN METHOD SUBMISSION ASSIGNMENT\\MAIN METHOD SUBMISSION ASSIGNMENT\\Program.cs",
+              "RelativeToolTip": "MAIN METHOD SUBMISSION ASSIGNMENT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T05:58:48.391Z",
               "EditorCaption": ""

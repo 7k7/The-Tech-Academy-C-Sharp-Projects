@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\METHOD SUBMISSION ASSIGNMENT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E609631D-459A-4D10-8493-9D247832FEE7}|METHOD SUBMISSION ASSIGNMENT\\METHOD SUBMISSION ASSIGNMENT.csproj|c:\\users\\user\\documents\\github\\the-tech-academy-c-sharp-projects\\method submission assignment\\method submission assignment\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E609631D-459A-4D10-8493-9D247832FEE7}|METHOD SUBMISSION ASSIGNMENT\\METHOD SUBMISSION ASSIGNMENT.csproj|solutionrelative:method submission assignment\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E609631D-459A-4D10-8493-9D247832FEE7}|METHOD SUBMISSION ASSIGNMENT\\METHOD SUBMISSION ASSIGNMENT.csproj|c:\\users\\user\\documents\\github\\the-tech-academy-c-sharp-projects\\method submission assignment\\method submission assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E609631D-459A-4D10-8493-9D247832FEE7}|METHOD SUBMISSION ASSIGNMENT\\METHOD SUBMISSION ASSIGNMENT.csproj|solutionrelative:method submission assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\METHOD SUBMISSION ASSIGNMENT\\METHOD SUBMISSION ASSIGNMENT\\Calculator.cs",
+              "RelativeDocumentMoniker": "METHOD SUBMISSION ASSIGNMENT\\Calculator.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\METHOD SUBMISSION ASSIGNMENT\\METHOD SUBMISSION ASSIGNMENT\\Calculator.cs*",
+              "RelativeToolTip": "METHOD SUBMISSION ASSIGNMENT\\Calculator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:36:21.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "8c8567d4-7f50-4965-9630-b1577805e805",
+        "Display": 3,
+        "X": 3,
+        "Y": 603,
+        "Width": 1085,
+        "Height": 1280,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\METHOD SUBMISSION ASSIGNMENT\\METHOD SUBMISSION ASSIGNMENT\\Program.cs",
+              "RelativeDocumentMoniker": "METHOD SUBMISSION ASSIGNMENT\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\METHOD SUBMISSION ASSIGNMENT\\METHOD SUBMISSION ASSIGNMENT\\Program.cs*",
+              "RelativeToolTip": "METHOD SUBMISSION ASSIGNMENT\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:30:55.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
