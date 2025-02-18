@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Calling Method Sub Assignment\Calling Method Sub Assignment\bin\Debug\Calling Method Sub Assignment.exe.config
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Calling Method Sub Assignment\Calling Method Sub Assignment\bin\Debug\Calling Method Sub Assignment.exe
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Calling Method Sub Assignment\Calling Method Sub Assignment\bin\Debug\Calling Method Sub Assignment.pdb
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Calling Method Sub Assignment\Calling Method Sub Assignment\obj\Debug\Calling Method Sub Assignment.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Calling Method Sub Assignment\Calling Method Sub Assignment\obj\Debug\Calling Method Sub Assignment.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Calling Method Sub Assignment\Calling Method Sub Assignment\obj\Debug\Calling Method Sub Assignment.exe
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Calling Method Sub Assignment\Calling Method Sub Assignment\obj\Debug\Calling Method Sub Assignment.pdb
