@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7477DA91-5ED5-4D7E-BFDF-E3F6E34D4994}|Calling Method Sub Assignment\\Calling Method Sub Assignment.csproj|c:\\users\\user\\documents\\github\\the-tech-academy-c-sharp-projects\\calling method sub assignment\\calling method sub assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7477DA91-5ED5-4D7E-BFDF-E3F6E34D4994}|Calling Method Sub Assignment\\Calling Method Sub Assignment.csproj|solutionrelative:calling method sub assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7477DA91-5ED5-4D7E-BFDF-E3F6E34D4994}|Calling Method Sub Assignment\\Calling Method Sub Assignment.csproj|c:\\users\\user\\documents\\github\\the-tech-academy-c-sharp-projects\\calling method sub assignment\\calling method sub assignment\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7477DA91-5ED5-4D7E-BFDF-E3F6E34D4994}|Calling Method Sub Assignment\\Calling Method Sub Assignment.csproj|solutionrelative:calling method sub assignment\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,45 +26,11 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Calling Method Sub Assignment\\Calling Method Sub Assignment\\Program.cs",
               "RelativeDocumentMoniker": "Calling Method Sub Assignment\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Calling Method Sub Assignment\\Calling Method Sub Assignment\\Program.cs*",
-              "RelativeToolTip": "Calling Method Sub Assignment\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Calling Method Sub Assignment\\Calling Method Sub Assignment\\Program.cs",
+              "RelativeToolTip": "Calling Method Sub Assignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T01:25:55.768Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "6c206e3b-3c67-44c5-ac8c-83ec3dcb5782",
-        "Display": 1,
-        "X": -101,
-        "Y": 162,
-        "Width": 860,
-        "Height": 667,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MathOperations.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Calling Method Sub Assignment\\Calling Method Sub Assignment\\MathOperations.cs",
-              "RelativeDocumentMoniker": "Calling Method Sub Assignment\\MathOperations.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Calling Method Sub Assignment\\Calling Method Sub Assignment\\MathOperations.cs",
-              "RelativeToolTip": "Calling Method Sub Assignment\\MathOperations.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T01:27:28.8Z",
               "EditorCaption": ""
             }
           ]
