@@ -1,0 +1,31 @@
+name: Update Project Links
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch:     # Allows manual triggering
+
+jobs:
+  update-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate project links
+        run: |
+          echo "## C# Course Projects" > ProjectLinks.md
+          echo "" >> ProjectLinks.md
+          for file in $(find . -name "*.cs"); do
+            file_path=$(echo $file | sed 's|./||')
+            file_name=$(basename $file)
+            echo "- [$file_name](https://github.com/7k7/The-Tech-Academy-C-Sharp-Projects/blob/main/$file_path)" >> ProjectLinks.md
+          done
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add ProjectLinks.md
+          git commit -m "Automated update of project links" || echo "No changes to commit"
+          git push
