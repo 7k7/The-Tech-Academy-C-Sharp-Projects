@@ -18,7 +18,9 @@ jobs:
           # Use find command, excluding unwanted C# files
           find . -type f -name "*.cs" ! -name "AssemblyInfo.cs" ! -name "*AssemblyAttributes.cs" -print0 | while IFS= read -r -d '' file; do
             filepath=$(echo "$file" | sed 's|^\./||')  # Remove leading "./"
+            filepath=$(echo "$filepath" | xargs)  # Trim any whitespace/newlines from filepath
             url_path=$(echo "$filepath" | jq -R -s -r @uri)  # Encode as a valid URL
+            url_path=$(echo "$url_path" | sed 's/%0A$//')  # Remove trailing %0A if present
             echo "- [$filepath](https://github.com/7k7/The-Tech-Academy-C-Sharp-Projects/blob/main/$url_path)" >> ProjectLinks.md
           done
 
@@ -29,5 +31,5 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add ProjectLinks.md
-          git commit -m "Automated update of project links (filtered unwanted files)" || echo "No changes to commit"
+          git commit -m "Automated update of project links (fixed URL encoding issues)" || echo "No changes to commit"
           git push origin HEAD:main
