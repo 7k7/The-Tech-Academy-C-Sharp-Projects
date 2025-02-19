@@ -1,9 +1,8 @@
 name: Update Project Links
-
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs daily at midnight
-  workflow_dispatch:     # Allows manual triggering
+  workflow_dispatch:  # Allows manual runs
 
 jobs:
   update-links:
@@ -12,14 +11,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate project links
+      - name: Generate Project Links Markdown
         run: |
-          echo "## C# Course Projects" > ProjectLinks.md
+          echo "# C# Project Files" > ProjectLinks.md
           echo "" >> ProjectLinks.md
-          for file in $(find . -name "*.cs"); do
-            file_path=$(echo $file | sed 's|./||')
-            file_name=$(basename $file)
-            echo "- [$file_name](https://github.com/7k7/The-Tech-Academy-C-Sharp-Projects/blob/main/$file_path)" >> ProjectLinks.md
+          # Use find command, preserving paths with spaces
+          find . -type f -name "*.cs" -print0 | while IFS= read -r -d '' file; do
+            filepath=$(echo "$file" | sed 's|^\./||')  # Remove leading "./"
+            url_path=$(echo "$filepath" | jq -R -s -r @uri)  # Encode as a valid URL
+            echo "- [$filepath](https://github.com/7k7/The-Tech-Academy-C-Sharp-Projects/blob/main/$url_path)" >> ProjectLinks.md
           done
 
       - name: Commit and push changes
@@ -28,7 +28,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git
           git add ProjectLinks.md
           git commit -m "Automated update of project links" || echo "No changes to commit"
           git push origin HEAD:main
