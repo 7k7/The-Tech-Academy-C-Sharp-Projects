@@ -20,22 +20,22 @@ jobs:
 
       - name: Generate Alphabetical Project Links
         run: |
-          echo "# Project Links (Alphabetical)" > Coding_Journal/ProjectLinks_Alphabetical.md
-          echo "" >> Coding_Journal/ProjectLinks_Alphabetical.md
+          echo "# Project Links (Alphabetical)" > ProjectLinks_Alphabetical.md
+          echo "" >> ProjectLinks_Alphabetical.md
           find The-Tech-Academy-C-Sharp-Projects -type f -name "*.cs" ! -name "AssemblyInfo.cs" ! -name "*AssemblyAttributes.cs" | sort | while read file; do
-            echo "- [${file##*/}](https://github.com/7k7/The-Tech-Academy-C-Sharp-Projects/blob/main/${file// /%20})" >> Coding_Journal/ProjectLinks_Alphabetical.md
+            echo "- [${file##*/}](https://github.com/7k7/The-Tech-Academy-C-Sharp-Projects/blob/main/${file// /%20})" >> ProjectLinks_Alphabetical.md
           done
 
       - name: Generate Recently Modified Project Links
         run: |
-          echo "# Project Links (Most Recently Modified)" > Coding_Journal/ProjectLinks_Recent.md
-          echo "" >> Coding_Journal/ProjectLinks_Recent.md
+          echo "# Project Links (Most Recently Modified)" > ProjectLinks_Recent.md
+          echo "" >> ProjectLinks_Recent.md
           find The-Tech-Academy-C-Sharp-Projects -type f -name "*.cs" ! -name "AssemblyInfo.cs" ! -name "*AssemblyAttributes.cs" -printf "%T@ %p\n" | sort -nr | cut -d' ' -f2- | while read file; do
-            echo "- [${file##*/}](https://github.com/7k7/The-Tech-Academy-C-Sharp-Projects/blob/main/${file// /%20})" >> Coding_Journal/ProjectLinks_Recent.md
+            echo "- [${file##*/}](https://github.com/7k7/The-Tech-Academy-C-Sharp-Projects/blob/main/${file// /%20})" >> ProjectLinks_Recent.md
           done
 
       - name: Commit and Push Changes
         run: |
-          git add Coding_Journal/ProjectLinks_Alphabetical.md Coding_Journal/ProjectLinks_Recent.md
+          git add ProjectLinks_Alphabetical.md ProjectLinks_Recent.md
           git commit -m "Auto-update project links (alphabetical and recent)"
           git push
