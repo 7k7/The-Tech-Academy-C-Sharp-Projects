@@ -15,8 +15,8 @@ jobs:
         run: |
           echo "# C# Project Files" > ProjectLinks.md
           echo "" >> ProjectLinks.md
-          # Use find command, preserving paths with spaces
-          find . -type f -name "*.cs" -print0 | while IFS= read -r -d '' file; do
+          # Use find command, excluding unwanted C# files
+          find . -type f -name "*.cs" ! -name "AssemblyInfo.cs" ! -name "*AssemblyAttributes.cs" -print0 | while IFS= read -r -d '' file; do
             filepath=$(echo "$file" | sed 's|^\./||')  # Remove leading "./"
             url_path=$(echo "$filepath" | jq -R -s -r @uri)  # Encode as a valid URL
             echo "- [$filepath](https://github.com/7k7/The-Tech-Academy-C-Sharp-Projects/blob/main/$url_path)" >> ProjectLinks.md
@@ -29,5 +29,5 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add ProjectLinks.md
-          git commit -m "Automated update of project links" || echo "No changes to commit"
+          git commit -m "Automated update of project links (filtered unwanted files)" || echo "No changes to commit"
           git push origin HEAD:main
