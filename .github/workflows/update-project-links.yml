@@ -18,6 +18,10 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
 
+      - name: Debug Find Command (Alphabetical)
+        run: |
+          find The-Tech-Academy-C-Sharp-Projects -type f -name "*.cs" ! -name "AssemblyInfo.cs" ! -name "*AssemblyAttributes.cs"
+
       - name: Generate Alphabetical Project Links
         run: |
           echo "# Project Links (Alphabetical)" > Coding_Journal/ProjectLinks_Alphabetical.md
