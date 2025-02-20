@@ -1,11 +1,12 @@
-name: Auto-Update Review Due Date
+name: Auto-Generate Review Countdown & Email Notification
 
 on:
-  project_card:
-    types: [moved]
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
-  update-review-date:
+  check-review-dates:
     runs-on: ubuntu-latest
 
     steps:
@@ -16,24 +17,37 @@ jobs:
         run: |
           sudo apt update && sudo apt install gh -y
 
-      - name: Assign Next Review Date
+      - name: Check Issues and Send Email Notifications
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          PROJECT_ID=1
-          
-          issue_number=$(gh issue list --limit 100 --json number,title --jq '.[] | select(.title | contains("Review")) | .number')
-          column_name=$(gh project field-list --owner 7k7 --project $PROJECT_ID --json name --jq '.[0].name')
+          REPO="7k7/The-Tech-Academy-C-Sharp-Projects"
           today=$(date +%Y-%m-%d)
           
-          if [[ "$column_name" == "To Review" ]]; then
-            next_review=$(date -d "$today +1 day" +%Y-%m-%d)
-          elif [[ "$column_name" == "Review Soon" ]]; then
-            next_review=$(date -d "$today +2 days" +%Y-%m-%d)
-          elif [[ "$column_name" == "Scheduled for Later" ]]; then
-            next_review=$(date -d "$today +3 days" +%Y-%m-%d)
-          elif [[ "$column_name" == "Mastered" ]]; then
-            next_review=$(date -d "$today +10 days" +%Y-%m-%d)
-          fi
+          # Get all issues
+          issues=$(gh issue list --repo $REPO --limit 100 --json number,title,labels --jq '.[] | {number: .number, title: .title, labels: [.labels[].name]}')
           
-          gh issue comment "$issue_number" --body "🚀 **Next Review Date:** $next_review"
+          for row in $(echo "$issues" | jq -c '.'); do
+            issue_number=$(echo "$row" | jq -r '.number')
+            title=$(echo "$row" | jq -r '.title')
+            labels=$(echo "$row" | jq -r '.labels[]' 2>/dev/null || echo "")
+            
+            # Determine review countdown based on label
+            if echo "$labels" | grep -q "🔥 High Priority"; then
+              due_date=$(date -d "$today +1 day" +%Y-%m-%d)
+            elif echo "$labels" | grep -q "⏳ Medium Priority"; then
+              due_date=$(date -d "$today +2 days" +%Y-%m-%d)
+            elif echo "$labels" | grep -q "✅ Low Priority"; then
+              due_date=$(date -d "$today +3 days" +%Y-%m-%d)
+            elif echo "$labels" | grep -q "🟢 Mastered"; then
+              due_date=$(date -d "$today +10 days" +%Y-%m-%d)
+            else
+              continue  # Skip if no matching label
+            fi
+            
+            # Add a comment with the next review date
+            gh issue comment "$issue_number" --repo "$REPO" --body "🚀 **Next Review Due Date:** $due_date"
+            
+            # Send an email notification 
+            echo -e "Subject: GitHub Review Reminder - $title\n\nYour next review for '$title' is due on $due_date." | sendmail -v 7.kmontano.7@gmail.com
+          done
