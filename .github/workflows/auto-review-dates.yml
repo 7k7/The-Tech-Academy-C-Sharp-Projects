@@ -19,8 +19,8 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          issue_number=$(gh issue list --repo 7k7/The-Tech-Academy-C-Sharp-Projects --json number,title --jq '.[] | select(.title | contains("Review")) | .number')
-          column_name=$(gh project column list --repo 7k7/The-Tech-Academy-C-Sharp-Projects --json name)
+          issue_number=$(gh issue list --limit 100 --json number,title --jq '.[] | select(.title | contains("Review")) | .number')
+          column_name=$(gh project list --format json --jq '.[0].name')
           today=$(date +%Y-%m-%d)
           
           if [[ "$column_name" == "To Review" ]]; then
@@ -33,5 +33,4 @@ jobs:
             next_review=$(date -d "$today +10 days" +%Y-%m-%d)
           fi
           
-          gh issue comment $issue_number --repo 7k7/The-Tech-Academy-C-Sharp-Projects --body "🚀 **Next Review Date:** $next_review"
-
+          gh issue comment "$issue_number" --body "🚀 **Next Review Date:** $next_review"
