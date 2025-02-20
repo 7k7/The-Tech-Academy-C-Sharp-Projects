@@ -19,8 +19,10 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          PROJECT_ID=1
+          
           issue_number=$(gh issue list --limit 100 --json number,title --jq '.[] | select(.title | contains("Review")) | .number')
-          column_name=$(gh project list --format json --jq '.[0].name')
+          column_name=$(gh project field-list --owner 7k7 --project $PROJECT_ID --json name --jq '.[0].name')
           today=$(date +%Y-%m-%d)
           
           if [[ "$column_name" == "To Review" ]]; then
