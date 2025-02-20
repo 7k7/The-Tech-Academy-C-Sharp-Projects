@@ -48,6 +48,18 @@ jobs:
             # Add a comment with the next review date
             gh issue comment "$issue_number" --repo "$REPO" --body "🚀 **Next Review Due Date:** $due_date"
             
-            # Send an email notification 
-            echo -e "Subject: GitHub Review Reminder - $title\n\nYour next review for '$title' is due on $due_date." | sendmail -v 7.kmontano.7@gmail.com
-          done
+            # Send an email notification via SMTP
+            echo "TITLE=$title" >> $GITHUB_ENV
+            echo "DUE_DATE=$due_date" >> $GITHUB_ENV
+
+      - name: Send Email Notification
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_SERVER }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: "GitHub Review Reminder - ${{ env.TITLE }}"
+          to: "7.kmontano.7@gmail.com"
+          from: "GitHub Actions <7.kmontano.7@gmail.com>"
+          body: "🚀 Your next review for '${{ env.TITLE }}' is due on ${{ env.DUE_DATE }}. Check your GitHub issues for details!"
