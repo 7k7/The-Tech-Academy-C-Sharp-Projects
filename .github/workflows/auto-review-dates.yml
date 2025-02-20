@@ -1,8 +1,7 @@
 name: Auto-Update Review Due Date
 
 on:
-  project_card:
-    types: [moved]
+  workflow_dispatch:
 
 jobs:
   update-review-date:
