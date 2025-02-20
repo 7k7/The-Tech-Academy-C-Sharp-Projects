@@ -1,0 +1,37 @@
+name: Auto-Update Review Due Date
+
+on:
+  project_card:
+    types: [moved]
+
+jobs:
+  update-review-date:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up GitHub CLI
+        run: |
+          sudo apt update && sudo apt install gh -y
+
+      - name: Assign Next Review Date
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          issue_number=$(gh issue list --repo 7k7/The-Tech-Academy-C-Sharp-Projects --json number,title --jq '.[] | select(.title | contains("Review")) | .number')
+          column_name=$(gh project column list --repo 7k7/The-Tech-Academy-C-Sharp-Projects --json name)
+          today=$(date +%Y-%m-%d)
+          
+          if [[ "$column_name" == "To Review" ]]; then
+            next_review=$(date -d "$today +1 day" +%Y-%m-%d)
+          elif [[ "$column_name" == "Review Soon" ]]; then
+            next_review=$(date -d "$today +2 days" +%Y-%m-%d)
+          elif [[ "$column_name" == "Scheduled for Later" ]]; then
+            next_review=$(date -d "$today +3 days" +%Y-%m-%d)
+          elif [[ "$column_name" == "Mastered" ]]; then
+            next_review=$(date -d "$today +10 days" +%Y-%m-%d)
+          fi
+          
+          gh issue comment $issue_number --repo 7k7/The-Tech-Academy-C-Sharp-Projects --body "🚀 **Next Review Date:** $next_review"
