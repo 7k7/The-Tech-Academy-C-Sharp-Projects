@@ -13,7 +13,7 @@ namespace TwentyOne
         // have in common
 
         // Like players
-        public List<string> Players { get; set; }
+        public List<Player> Players { get; set; }
 
         // Game name
         public string Name { get; set; }
@@ -28,9 +28,9 @@ namespace TwentyOne
         // A method that prints a list of players
         public virtual void ListPlayers()
         {
-            foreach (string player in Players)
+            foreach (Player player in Players)
             {
-                Console.WriteLine(player);
+                Console.WriteLine(player.Name);
             }
         }
     }

@@ -99,7 +99,7 @@ interface IQuittable
     // void method
     void Quit();
 }
-
+// This class implements an interace
 public class Employee : IQuittable
 {
     public void Quit()

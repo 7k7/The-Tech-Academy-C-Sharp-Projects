@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\twentyone\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|c:\\users\\user\\documents\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\twentyone\\twentyone\\iwalkaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\iwalkaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\twentyone\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|c:\\users\\user\\documents\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\twentyone\\twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|c:\\users\\user\\documents\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\twentyone\\twentyone\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\twentyone\\iwalkaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\iwalkaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,53 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\Player.cs",
+              "RelativeDocumentMoniker": "TwentyOne\\Player.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\Player.cs",
+              "RelativeToolTip": "TwentyOne\\Player.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:56:57.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "IWalkAway.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\IWalkAway.cs",
               "RelativeDocumentMoniker": "TwentyOne\\IWalkAway.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\IWalkAway.cs",
               "RelativeToolTip": "TwentyOne\\IWalkAway.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T07:29:17.51Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\Program.cs",
               "RelativeDocumentMoniker": "TwentyOne\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\Program.cs",
               "RelativeToolTip": "TwentyOne\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCQAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T05:41:32.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\Game.cs",
-              "RelativeDocumentMoniker": "TwentyOne\\Game.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\Game.cs",
-              "RelativeToolTip": "TwentyOne\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T05:09:15.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TwentyOneGame.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\TwentyOneGame.cs",
-              "RelativeDocumentMoniker": "TwentyOne\\TwentyOneGame.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\TwentyOneGame.cs",
-              "RelativeToolTip": "TwentyOne\\TwentyOneGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T08:38:45.992Z",
               "EditorCaption": ""
             }
           ]

@@ -14,7 +14,7 @@ namespace TwentyOne
             Console.WriteLine("21 Players:");
             base.ListPlayers();
         }
-        public void WalkAway(string player)
+        public void WalkAway(Player player)
         {
             throw new NotImplementedException();
         }

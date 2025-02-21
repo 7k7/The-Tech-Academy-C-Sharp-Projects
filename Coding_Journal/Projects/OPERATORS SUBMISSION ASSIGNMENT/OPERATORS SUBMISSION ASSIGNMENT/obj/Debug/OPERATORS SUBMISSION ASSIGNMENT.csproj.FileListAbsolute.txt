@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\OPERATORS SUBMISSION ASSIGNMENT\OPERATORS SUBMISSION ASSIGNMENT\bin\Debug\OPERATORS SUBMISSION ASSIGNMENT.exe.config
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\OPERATORS SUBMISSION ASSIGNMENT\OPERATORS SUBMISSION ASSIGNMENT\bin\Debug\OPERATORS SUBMISSION ASSIGNMENT.exe
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\OPERATORS SUBMISSION ASSIGNMENT\OPERATORS SUBMISSION ASSIGNMENT\bin\Debug\OPERATORS SUBMISSION ASSIGNMENT.pdb
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\OPERATORS SUBMISSION ASSIGNMENT\OPERATORS SUBMISSION ASSIGNMENT\obj\Debug\OPERATORS SUBMISSION ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\OPERATORS SUBMISSION ASSIGNMENT\OPERATORS SUBMISSION ASSIGNMENT\obj\Debug\OPERATORS SUBMISSION ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\OPERATORS SUBMISSION ASSIGNMENT\OPERATORS SUBMISSION ASSIGNMENT\obj\Debug\OPERATORS SUBMISSION ASSIGNMENT.exe
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\OPERATORS SUBMISSION ASSIGNMENT\OPERATORS SUBMISSION ASSIGNMENT\obj\Debug\OPERATORS SUBMISSION ASSIGNMENT.pdb

@@ -10,6 +10,6 @@ namespace TwentyOne
     // interface
     interface IWalkAway
     {
-        void WalkAway(string player);
+        void WalkAway(Player player);
     }
 }

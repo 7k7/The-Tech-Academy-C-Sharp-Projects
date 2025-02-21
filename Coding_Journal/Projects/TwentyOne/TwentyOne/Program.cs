@@ -8,20 +8,26 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            TwentyOneGame game = new TwentyOneGame();
-            game.Players = new List<string> { "Jesse", "Bill", "Bob" };
-            game.ListPlayers();
+            Game game = new TwentyOneGame();
+            // must instantiate a list in order to use it
+            game.Players = new List<Player>();
+            Player player = new Player();
+            player.Name = "Jesse";
+            // operator + overload use here:
+            // game + player is the method call so to speak
+            game = game + player;
+            // now user the operator - using short hand way
+            game -= player;
+            
+            Deck deck = new Deck();
+            deck.Shuffle();
+
+            foreach (Card card in deck.Cards)
+            {
+                Console.WriteLine(card.Face + " of " + card.Suit);
+            }
+            Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
-
-            //Deck deck = new Deck();
-            //deck.Shuffle();
-
-            //foreach (Card card in deck.Cards)
-            //{
-            //    Console.WriteLine(card.Face + " of " + card.Suit);
-            //}
-            //Console.WriteLine(deck.Cards.Count);
-            //Console.ReadLine();
 
             // Object state. 
             // Will create basic models for objects called CLASSES
