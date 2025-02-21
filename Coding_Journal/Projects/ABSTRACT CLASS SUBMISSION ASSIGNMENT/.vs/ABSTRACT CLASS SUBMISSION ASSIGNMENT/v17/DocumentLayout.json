@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\ABSTRACT CLASS SUBMISSION ASSIGNMENT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28880C05-8EDB-442A-A94A-C515F192F18F}|ABSTRACT CLASS SUBMISSION ASSIGNMENT\\ABSTRACT CLASS SUBMISSION ASSIGNMENT.csproj|C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\ABSTRACT CLASS SUBMISSION ASSIGNMENT\\abstract class submission assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28880C05-8EDB-442A-A94A-C515F192F18F}|ABSTRACT CLASS SUBMISSION ASSIGNMENT\\ABSTRACT CLASS SUBMISSION ASSIGNMENT.csproj|solutionrelative:abstract class submission assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28880C05-8EDB-442A-A94A-C515F192F18F}|ABSTRACT CLASS SUBMISSION ASSIGNMENT\\ABSTRACT CLASS SUBMISSION ASSIGNMENT.csproj|c:\\users\\user\\documents\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\abstract class submission assignment\\abstract class submission assignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28880C05-8EDB-442A-A94A-C515F192F18F}|ABSTRACT CLASS SUBMISSION ASSIGNMENT\\ABSTRACT CLASS SUBMISSION ASSIGNMENT.csproj|solutionrelative:abstract class submission assignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28880C05-8EDB-442A-A94A-C515F192F18F}|ABSTRACT CLASS SUBMISSION ASSIGNMENT\\ABSTRACT CLASS SUBMISSION ASSIGNMENT.csproj|C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\ABSTRACT CLASS SUBMISSION ASSIGNMENT\\abstract class submission assignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28880C05-8EDB-442A-A94A-C515F192F18F}|ABSTRACT CLASS SUBMISSION ASSIGNMENT\\ABSTRACT CLASS SUBMISSION ASSIGNMENT.csproj|solutionrelative:abstract class submission assignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\ABSTRACT CLASS SUBMISSION ASSIGNMENT\\ABSTRACT CLASS SUBMISSION ASSIGNMENT\\Person.cs",
+              "RelativeDocumentMoniker": "ABSTRACT CLASS SUBMISSION ASSIGNMENT\\Person.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\ABSTRACT CLASS SUBMISSION ASSIGNMENT\\ABSTRACT CLASS SUBMISSION ASSIGNMENT\\Person.cs",
+              "RelativeToolTip": "ABSTRACT CLASS SUBMISSION ASSIGNMENT\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:04:12.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\ABSTRACT CLASS SUBMISSION ASSIGNMENT\\ABSTRACT CLASS SUBMISSION ASSIGNMENT\\Employee.cs",
+              "RelativeDocumentMoniker": "ABSTRACT CLASS SUBMISSION ASSIGNMENT\\Employee.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\ABSTRACT CLASS SUBMISSION ASSIGNMENT\\ABSTRACT CLASS SUBMISSION ASSIGNMENT\\Employee.cs",
+              "RelativeToolTip": "ABSTRACT CLASS SUBMISSION ASSIGNMENT\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:07:47.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\ABSTRACT CLASS SUBMISSION ASSIGNMENT\\ABSTRACT CLASS SUBMISSION ASSIGNMENT\\Program.cs",
+              "RelativeDocumentMoniker": "ABSTRACT CLASS SUBMISSION ASSIGNMENT\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\ABSTRACT CLASS SUBMISSION ASSIGNMENT\\ABSTRACT CLASS SUBMISSION ASSIGNMENT\\Program.cs",
+              "RelativeToolTip": "ABSTRACT CLASS SUBMISSION ASSIGNMENT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:45:38.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
