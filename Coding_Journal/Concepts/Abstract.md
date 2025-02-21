@@ -6,6 +6,9 @@ Abstract data means the output of that data and not the implementation aspect.
 Example: We might not know how a car's brake system work. We just know that if the brake pedal is pressed down, the car will begin to brake. 
 Using the above example, abstract is important because different cars could have different methods of accomplishing the same expected bahvior; braking. 
 This example is a demonstartion of "abstracting out" the implementation, so only what something does is know and not how it is done.
+🔗 **Related Hands-On Project:**
+- 📂  View Full Implementation in Projects Folder
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\ABSTRACT CLASS SUBMISSION ASSIGNMENT
 
 ---
 ## 🔹 Abstract Class
