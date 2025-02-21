@@ -1,1 +1,0 @@
-xcopy /s /y "C:\Users\user\iCloudDrive\Noteful\*" "C:\Users\user\Coding_Journal\Concepts\"
