@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\Parameters Assignment\Parameters Assignment\bin\Debug\Parameters Assignment.exe.config
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\Parameters Assignment\Parameters Assignment\bin\Debug\Parameters Assignment.exe
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\Parameters Assignment\Parameters Assignment\bin\Debug\Parameters Assignment.pdb
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\Parameters Assignment\Parameters Assignment\obj\Debug\Parameters Assignment.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\Parameters Assignment\Parameters Assignment\obj\Debug\Parameters Assignment.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\Parameters Assignment\Parameters Assignment\obj\Debug\Parameters Assignment.exe
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\Parameters Assignment\Parameters Assignment\obj\Debug\Parameters Assignment.pdb
