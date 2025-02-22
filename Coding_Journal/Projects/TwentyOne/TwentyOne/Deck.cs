@@ -11,48 +11,21 @@ namespace TwentyOne
             // Must instantiate property Cards inside 
             // constructor method to use it 
             Cards = new List<Card>();
-            // A Better way //
-
-            // There are 13 faces of cards in a deck
-            // and each card has four suits = 52 cards total
-
-            // For each face, must loop through it four times
-            // becuase of the four suits
-            // use a nested for loop or foreach loop
-
-            // Create a list for all possible suits
-            List<string> Suits = new List<string>()
+            
+            // loop trhogu each face
+            // there are 13 of them
+            for (int i = 0; i < 13; i++)
             {
-                "Clubs", "Hearts", "Diamonds", "Spades"
-            };
-
-            // Create list for all faces
-            List<string> Faces = new List<string>()
-            {
-                "Two", "Three", "Four", "Five", "Six", "Seven",
-                "Eight", "Nine", "Ten", "Jack", "Queen", "King", "Ace"
-            };
-
-            foreach (string face in Faces)
-            {
-                foreach (string suit in Suits)
+                for (int j = 0; j < 4; j++)
                 {
                     Card card = new Card();
-                    card.Suit = suit;
-                    card.Face = face;
-
+                    // cast underlying value to its
+                    // corresponding enumerator
+                    card.Face = (Face)i;
+                    card.Suit = (Suit)j;
                     Cards.Add(card);
                 }
             }
-
-
-            // One way: //
-
-            //Cards = new List<Card>();
-            //Card cardOne = new Card();
-            //cardOne.Face = "Two";
-            //cardOne.Suit = "Hearts";
-            //Cards.Add(cardOne);
 
         }
 

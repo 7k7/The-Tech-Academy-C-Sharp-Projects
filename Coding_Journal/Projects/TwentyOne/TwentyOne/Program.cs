@@ -8,16 +8,6 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            Game game = new TwentyOneGame();
-            // must instantiate a list in order to use it
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Jesse";
-            // operator + overload use here:
-            // game + player is the method call so to speak
-            game = game + player;
-            // now user the operator - using short hand way
-            game -= player;
             
             Deck deck = new Deck();
             deck.Shuffle();

@@ -33,11 +33,37 @@ namespace TwentyOne
 
         // public makes this property accessable to other parts of the program
         // get and set are the only thigns that properties can do
-        public string Suit { get; set; }
+        public Suit Suit { get; set; }
 
         // Face is the front of the card- numbers but
         // aces, kings, queens, jacks are not int 
         // so used string as data type
-        public string Face { get; set; }
+        public Face Face { get; set; }
+    }
+
+    // Enum
+    public enum Suit
+    {
+        Clubs,
+        Diamonds,
+        Hearts,
+        Spades
+    }
+
+    public enum Face
+    {
+        Two,
+        Three,
+        Four,
+        Five,
+        Six,
+        Seven,
+        Eight,
+        Nine,
+        Ten,
+        Jack,
+        Queen,
+        King,
+        Ace
     }
 }
