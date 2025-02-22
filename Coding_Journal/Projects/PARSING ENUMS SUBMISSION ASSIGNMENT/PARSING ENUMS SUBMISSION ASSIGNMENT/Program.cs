@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PARSING_ENUMS_SUBMISSION_ASSIGNMENT
 {
@@ -16,7 +12,7 @@ namespace PARSING_ENUMS_SUBMISSION_ASSIGNMENT
                 Console.WriteLine("Please enter the current day: ");
 
                 // user input is parsed to a variable of the enum type
-                string userInput = Console.ReadLine();
+                string userInput = Console.ReadLine().Trim();
 
                 // Enum.Parse<T> method converts a string into an enumerator of an enum
                 DayOfWeek currentDay = (DayOfWeek)Enum.Parse(typeof(DaysOfTheWeek), userInput);
@@ -42,7 +38,14 @@ namespace PARSING_ENUMS_SUBMISSION_ASSIGNMENT
             Console.WriteLine("Please enter the current day: ");
 
             // user input is parsed to a variable of the enum type
-            string input = Console.ReadLine();
+            string input = Console.ReadLine().Trim();
+            
+            // Ensure input is not empty
+            if (string.IsNullOrWhiteSpace(input) )
+            {
+                Console.WriteLine("No input provided. Please enter a valid day.");
+                return;
+            }
 
             // Check whether user input is a valid actual day
             // The Enum.TryParse method trys to match the input string to an enum

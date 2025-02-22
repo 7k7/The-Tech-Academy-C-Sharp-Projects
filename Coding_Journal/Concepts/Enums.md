@@ -7,6 +7,10 @@ enumeral, or enumerators of the type.
 These enumerators are identifiers that behave as constants.
 Constant values never change.
 
+🔗 **Related Hands-On Project:**
+- 📂  View Full Implementation in Projects Folder
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\PARSING ENUMS SUBMISSION ASSIGNMENT\PARSING ENUMS SUBMISSION ASSIGNMENT\
+
 ---
 ## 🔹 Enum Syntax
 enum is a special class that represents a group of constants.
