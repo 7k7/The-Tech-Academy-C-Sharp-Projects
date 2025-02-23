@@ -10,13 +10,43 @@ namespace TwentyOne
         {
             
             Deck deck = new Deck();
-            deck.Shuffle();
 
-            foreach (Card card in deck.Cards)
+            //int count = deck.Cards.Count(x => x.Face == Face.Ace);
+            //Console.WriteLine(count);
+
+            //List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
+            //foreach (Card card in newList)
+            //{
+            //    Console.WriteLine(card.Face);
+            //}
+
+            List<int> numberList = new List<int>() { 1, 2, 3, 535, 342, 23 };
+            int sum = numberList.Sum(x => x + 5);
+            int max = numberList.Max();
+            int min = numberList.Min();
+            Console.WriteLine(sum);
+            Console.WriteLine(max);
+            Console.WriteLine(min);
+
+            // Filter Lists
+            var greaterThan20 = numberList.Where(x => x > 20);  
+            foreach (int number in greaterThan20)
             {
-                Console.WriteLine(card.Face + " of " + card.Suit);
+                Console.WriteLine(number);
             }
-            Console.WriteLine(deck.Cards.Count);
+
+            // Chain LINQ methods
+            // Filter numbers in list then calculate the sum
+            int sumOfGreaterThen20List = numberList.Where(x => x > 20).Sum();
+            Console.WriteLine(sumOfGreaterThen20List);
+            
+            //deck.Shuffle();
+
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
+            //Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
 
             // Object state. 

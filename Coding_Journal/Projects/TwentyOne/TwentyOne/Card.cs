@@ -10,7 +10,7 @@ namespace TwentyOne
     // We instantiate objects of this class
     // and set the properties of it given in this class
     // Class is the cookie cutter and objects are the cookies
-    public class Card
+    public struct Card
     {
         // Constructor = assigning default values to when instantiating
         // an object of this class
