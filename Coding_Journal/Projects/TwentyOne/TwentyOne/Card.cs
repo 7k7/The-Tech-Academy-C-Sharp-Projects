@@ -39,6 +39,12 @@ namespace TwentyOne
         // aces, kings, queens, jacks are not int 
         // so used string as data type
         public Face Face { get; set; }
+
+        // override tostring method
+        public override string ToString()
+        {
+            return string.Format("{0} of {1}", Face, Suit);
+        }
     }
 
     // Enum

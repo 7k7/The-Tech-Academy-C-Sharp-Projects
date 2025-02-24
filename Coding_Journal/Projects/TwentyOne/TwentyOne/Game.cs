@@ -5,6 +5,10 @@ namespace TwentyOne
 {
     public abstract class Game
     {
+        // private fields
+        // Intialize each as a new List/Dictionary
+        private List<Player> _players = new List<Player>();
+        private Dictionary<Player, int> _bets = new Dictionary<Player, int>();
         // Inherency example //
         // Programming practice: design towards abstraction
         // The more generic your code is, the more features you can add later
@@ -13,13 +17,21 @@ namespace TwentyOne
         // have in common
 
         // Like players
-        public List<Player> Players { get; set; }
+        public List<Player> Players
+        {
+            get { return _players; }
+            set { _players = value; }
+        }
 
         // Game name
         public string Name { get; set; }
 
-        // dealer
-        public string Dealer { get; set; }
+        // Bets
+        public Dictionary<Player, int> Bets  // list of key-value pairs
+        {
+            get { return _bets; }
+            set { _bets = value; }
+        }
 
         // abstract method
         // All type of games have a play method
