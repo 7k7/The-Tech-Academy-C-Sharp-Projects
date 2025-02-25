@@ -23,6 +23,7 @@ namespace TwentyOne
             // This appends to the file
             using (StreamWriter file = new StreamWriter(@"C:\Users\kevinmontano\log.txt", true))
             {
+                file.WriteLine(DateTime.Now); // add current time
                 file.WriteLine(card);
             }
             Deck.Cards.RemoveAt(0);

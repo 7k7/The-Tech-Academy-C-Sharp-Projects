@@ -1,0 +1,7 @@
+C:\Users\kevinmontano\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\DATE TIME SUBMISSION ASSIGNMENT\DATE TIME SUBMISSION ASSIGNMENT\bin\Debug\DATE TIME SUBMISSION ASSIGNMENT.exe.config
+C:\Users\kevinmontano\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\DATE TIME SUBMISSION ASSIGNMENT\DATE TIME SUBMISSION ASSIGNMENT\bin\Debug\DATE TIME SUBMISSION ASSIGNMENT.exe
+C:\Users\kevinmontano\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\DATE TIME SUBMISSION ASSIGNMENT\DATE TIME SUBMISSION ASSIGNMENT\bin\Debug\DATE TIME SUBMISSION ASSIGNMENT.pdb
+C:\Users\kevinmontano\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\DATE TIME SUBMISSION ASSIGNMENT\DATE TIME SUBMISSION ASSIGNMENT\obj\Debug\DATE TIME SUBMISSION ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\kevinmontano\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\DATE TIME SUBMISSION ASSIGNMENT\DATE TIME SUBMISSION ASSIGNMENT\obj\Debug\DATE TIME SUBMISSION ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\kevinmontano\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\DATE TIME SUBMISSION ASSIGNMENT\DATE TIME SUBMISSION ASSIGNMENT\obj\Debug\DATE TIME SUBMISSION ASSIGNMENT.exe
+C:\Users\kevinmontano\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\DATE TIME SUBMISSION ASSIGNMENT\DATE TIME SUBMISSION ASSIGNMENT\obj\Debug\DATE TIME SUBMISSION ASSIGNMENT.pdb

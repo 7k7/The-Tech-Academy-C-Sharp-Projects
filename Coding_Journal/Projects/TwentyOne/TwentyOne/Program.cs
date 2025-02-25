@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.IO;
 
 namespace TwentyOne
 {
@@ -10,8 +8,6 @@ namespace TwentyOne
         // Entrance point of this console app
         static void Main(string[] args)
         {
-
-
             // print welcome message
             Console.WriteLine("Welcome to the Grand Hotel and Casino." +
                 "Let's start by telling me your name:");
