@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\Try Catch Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDB8321-B3AF-45A4-B56D-CF2FF3960E15}|Try Catch Assignment\\Try Catch Assignment.csproj|c:\\users\\kevinmontano\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\try catch assignment\\try catch assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDB8321-B3AF-45A4-B56D-CF2FF3960E15}|Try Catch Assignment\\Try Catch Assignment.csproj|solutionrelative:try catch assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\Try Catch Assignment\\Try Catch Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Try Catch Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\Try Catch Assignment\\Try Catch Assignment\\Program.cs",
+              "RelativeToolTip": "Try Catch Assignment\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAPjMzMzPbvycAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:42:44.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

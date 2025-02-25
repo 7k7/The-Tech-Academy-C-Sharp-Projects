@@ -3,15 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|c:\\users\\kevinmontano\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\twentyone\\twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE8891B-EC7E-451E-BA70-0FFEA67F9B01}|Casino\\Casino.csproj|c:\\users\\kevinmontano\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\twentyone\\casino\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4EE8891B-EC7E-451E-BA70-0FFEA67F9B01}|Casino\\Casino.csproj|c:\\users\\kevinmontano\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\twentyone\\casino\\fraudexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE8891B-EC7E-451E-BA70-0FFEA67F9B01}|Casino\\Casino.csproj|solutionrelative:casino\\fraudexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE8891B-EC7E-451E-BA70-0FFEA67F9B01}|Casino\\Casino.csproj|c:\\users\\kevinmontano\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\twentyone\\casino\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE8891B-EC7E-451E-BA70-0FFEA67F9B01}|Casino\\Casino.csproj|solutionrelative:casino\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE8891B-EC7E-451E-BA70-0FFEA67F9B01}|Casino\\Casino.csproj|C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\casino\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EE8891B-EC7E-451E-BA70-0FFEA67F9B01}|Casino\\Casino.csproj|solutionrelative:casino\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE8891B-EC7E-451E-BA70-0FFEA67F9B01}|Casino\\Casino.csproj|c:\\users\\kevinmontano\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\twentyone\\casino\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4EE8891B-EC7E-451E-BA70-0FFEA67F9B01}|Casino\\Casino.csproj|C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\casino\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EE8891B-EC7E-451E-BA70-0FFEA67F9B01}|Casino\\Casino.csproj|solutionrelative:casino\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,21 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dealer.cs",
-              "DocumentMoniker": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\Casino\\Dealer.cs",
-              "RelativeDocumentMoniker": "Casino\\Dealer.cs",
-              "ToolTip": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\Casino\\Dealer.cs",
-              "RelativeToolTip": "Casino\\Dealer.cs",
-              "ViewState": "AgIAAAAAAAAAaGZmZmYEwBcAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T05:53:15.566Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -44,6 +39,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FraudException.cs",
+              "DocumentMoniker": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\Casino\\FraudException.cs",
+              "RelativeDocumentMoniker": "Casino\\FraudException.cs",
+              "ToolTip": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\Casino\\FraudException.cs",
+              "RelativeToolTip": "Casino\\FraudException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:37:38.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dealer.cs",
+              "DocumentMoniker": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\Casino\\Dealer.cs",
+              "RelativeDocumentMoniker": "Casino\\Dealer.cs",
+              "ToolTip": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\Casino\\Dealer.cs",
+              "RelativeToolTip": "Casino\\Dealer.cs",
+              "ViewState": "AgIAAAAAAAAAaGZmZmYEwBcAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T05:53:15.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\Casino\\Player.cs",
               "RelativeDocumentMoniker": "Casino\\Player.cs",
@@ -51,8 +71,7 @@
               "RelativeToolTip": "Casino\\Player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T04:11:10.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T04:11:10.289Z"
             },
             {
               "$type": "Document",
@@ -62,9 +81,43 @@
               "RelativeDocumentMoniker": "TwentyOne\\Program.cs",
               "ToolTip": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\Program.cs",
               "RelativeToolTip": "TwentyOne\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAABQvSkAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAMzMzMzMJwEEAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T17:39:22.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "4ddd8cee-85f9-4603-8d9f-23566e488b2d",
+        "Display": 3,
+        "X": 2,
+        "Y": 343,
+        "Width": 1070,
+        "Height": 1368,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TwentyOneGame.cs",
+              "DocumentMoniker": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\Casino\\TwentyOneGame.cs",
+              "RelativeDocumentMoniker": "Casino\\TwentyOneGame.cs",
+              "ToolTip": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\Casino\\TwentyOneGame.cs",
+              "RelativeToolTip": "Casino\\TwentyOneGame.cs",
+              "ViewState": "AgIAAAUAAABA/////z8lwCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:02:39.007Z",
               "EditorCaption": ""
             }
           ]

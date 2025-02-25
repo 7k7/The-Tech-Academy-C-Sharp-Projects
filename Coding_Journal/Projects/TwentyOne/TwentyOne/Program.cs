@@ -17,11 +17,15 @@ namespace TwentyOne
             // Take in and store user inpiut
             string playerName = Console.ReadLine();
 
-            // Prompt user for money to play
-            Console.WriteLine("And how much money did you bring today?");
-
-            //Take in user amount
-            int bank = Convert.ToInt32(Console.ReadLine());
+            bool validAnswer = false;
+            int bank = 0;
+            while (!validAnswer)
+            {
+                // Prompt user for money to play
+                Console.WriteLine("And how much money did you bring today?");
+                validAnswer = int.TryParse(Console.ReadLine(), out bank);
+                if (!validAnswer) Console.WriteLine("Please enter digits only, no decimals.");
+            }
 
             // Ask if user wants to play the game
             Console.WriteLine("Hello, {0}. Would you like to join a game of 21 right now?", playerName);
@@ -41,8 +45,8 @@ namespace TwentyOne
                 {
                     file.WriteLine(player.id);
                 }
-                    //Instance of Game of type TwentyOneGame
-                    Game game = new TwentyOneGame();
+                //Instance of Game of type TwentyOneGame
+                Game game = new TwentyOneGame();
                 // Add new Player instance to the Game's List<Player>
                 // Using the overloaded operator+ (See Player class)
                 game += player;
@@ -53,19 +57,34 @@ namespace TwentyOne
                 // And their balance is greater than 0
                 while (player.isActivelyPlaying && player.Balance > 0)
                 {
-                    game.Play();
+                    try
+                    {
+                        game.Play();
+                    }
+                    catch (FraudException)
+                    {
+                        Console.WriteLine("Security! Kick this person out!");
+                        Console.ReadLine();
+                        return;
+                    }
+                    catch (Exception)
+                    {
+                        Console.WriteLine("An error occurred. Please contact your System Administrator.");
+                        Console.ReadLine();
+                        return;
+                    }
+                    
                 }
                 // Remove player from list of Players in the game TwentyOne
                 // after they exist from while loop
                 game -= player; // overloaded operator-
-                // Exit message
+                                // Exit message
                 Console.WriteLine("Thank you for playing!");
             }
             // Exit message: since user answered no or no longer actively playing or no money
             Console.WriteLine("Feel free to look around the casino. Bye for now.");
             // Prevent the console from closing immediately after the program finishes
             Console.Read();
-
         }
     }
 }

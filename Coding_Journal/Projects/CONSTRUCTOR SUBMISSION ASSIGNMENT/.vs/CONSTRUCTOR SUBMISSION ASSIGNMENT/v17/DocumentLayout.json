@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\CONSTRUCTOR SUBMISSION ASSIGNMENT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5103F3EA-C4E8-47D3-B91C-3B2A0D1B526E}|CONSTRUCTOR SUBMISSION ASSIGNMENT\\CONSTRUCTOR SUBMISSION ASSIGNMENT.csproj|c:\\users\\kevinmontano\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\constructor submission assignment\\constructor submission assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5103F3EA-C4E8-47D3-B91C-3B2A0D1B526E}|CONSTRUCTOR SUBMISSION ASSIGNMENT\\CONSTRUCTOR SUBMISSION ASSIGNMENT.csproj|solutionrelative:constructor submission assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5103F3EA-C4E8-47D3-B91C-3B2A0D1B526E}|CONSTRUCTOR SUBMISSION ASSIGNMENT\\CONSTRUCTOR SUBMISSION ASSIGNMENT.csproj|C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\CONSTRUCTOR SUBMISSION ASSIGNMENT\\constructor submission assignment\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5103F3EA-C4E8-47D3-B91C-3B2A0D1B526E}|CONSTRUCTOR SUBMISSION ASSIGNMENT\\CONSTRUCTOR SUBMISSION ASSIGNMENT.csproj|solutionrelative:constructor submission assignment\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5103F3EA-C4E8-47D3-B91C-3B2A0D1B526E}|CONSTRUCTOR SUBMISSION ASSIGNMENT\\CONSTRUCTOR SUBMISSION ASSIGNMENT.csproj|c:\\users\\kevinmontano\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\constructor submission assignment\\constructor submission assignment\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5103F3EA-C4E8-47D3-B91C-3B2A0D1B526E}|CONSTRUCTOR SUBMISSION ASSIGNMENT\\CONSTRUCTOR SUBMISSION ASSIGNMENT.csproj|solutionrelative:constructor submission assignment\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5103F3EA-C4E8-47D3-B91C-3B2A0D1B526E}|CONSTRUCTOR SUBMISSION ASSIGNMENT\\CONSTRUCTOR SUBMISSION ASSIGNMENT.csproj|c:\\users\\kevinmontano\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\constructor submission assignment\\constructor submission assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5103F3EA-C4E8-47D3-B91C-3B2A0D1B526E}|CONSTRUCTOR SUBMISSION ASSIGNMENT\\CONSTRUCTOR SUBMISSION ASSIGNMENT.csproj|solutionrelative:constructor submission assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UserAccount.cs",
               "DocumentMoniker": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\CONSTRUCTOR SUBMISSION ASSIGNMENT\\CONSTRUCTOR SUBMISSION ASSIGNMENT\\UserAccount.cs",
               "RelativeDocumentMoniker": "CONSTRUCTOR SUBMISSION ASSIGNMENT\\UserAccount.cs",
               "ToolTip": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\CONSTRUCTOR SUBMISSION ASSIGNMENT\\CONSTRUCTOR SUBMISSION ASSIGNMENT\\UserAccount.cs",
               "RelativeToolTip": "CONSTRUCTOR SUBMISSION ASSIGNMENT\\UserAccount.cs",
-              "ViewState": "AgIAAAEAAADAmZmZmdkhwCYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T06:31:53.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\CONSTRUCTOR SUBMISSION ASSIGNMENT\\CONSTRUCTOR SUBMISSION ASSIGNMENT\\Program.cs",
               "RelativeDocumentMoniker": "CONSTRUCTOR SUBMISSION ASSIGNMENT\\Program.cs",
               "ToolTip": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\CONSTRUCTOR SUBMISSION ASSIGNMENT\\CONSTRUCTOR SUBMISSION ASSIGNMENT\\Program.cs",
               "RelativeToolTip": "CONSTRUCTOR SUBMISSION ASSIGNMENT\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T06:29:03.62Z",
               "EditorCaption": ""

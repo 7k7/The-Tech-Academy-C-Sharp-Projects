@@ -1,0 +1,7 @@
+C:\Users\kevinmontano\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\Try Catch Assignment\Try Catch Assignment\bin\Debug\Try Catch Assignment.exe.config
+C:\Users\kevinmontano\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\Try Catch Assignment\Try Catch Assignment\bin\Debug\Try Catch Assignment.exe
+C:\Users\kevinmontano\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\Try Catch Assignment\Try Catch Assignment\bin\Debug\Try Catch Assignment.pdb
+C:\Users\kevinmontano\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\Try Catch Assignment\Try Catch Assignment\obj\Debug\Try Catch Assignment.csproj.AssemblyReference.cache
+C:\Users\kevinmontano\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\Try Catch Assignment\Try Catch Assignment\obj\Debug\Try Catch Assignment.csproj.CoreCompileInputs.cache
+C:\Users\kevinmontano\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\Try Catch Assignment\Try Catch Assignment\obj\Debug\Try Catch Assignment.exe
+C:\Users\kevinmontano\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\Try Catch Assignment\Try Catch Assignment\obj\Debug\Try Catch Assignment.pdb
