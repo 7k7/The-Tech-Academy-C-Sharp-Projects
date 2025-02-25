@@ -1,5 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
+using System.IO;
+using Casino;
+using Casino.TwentyOne;
 
 namespace TwentyOne
 {
@@ -32,8 +34,15 @@ namespace TwentyOne
             {
                 // Instance of player with the users' input data passed in
                 Player player = new Player(playerName, bank);
-                //Instance of Game of type TwentyOneGame
-                Game game = new TwentyOneGame();
+                // assign id
+                player.id = Guid.NewGuid();
+                // log the player's guid
+                using (StreamWriter file = new StreamWriter(@"C:\Users\kevinmontano\log.txt", true))
+                {
+                    file.WriteLine(player.id);
+                }
+                    //Instance of Game of type TwentyOneGame
+                    Game game = new TwentyOneGame();
                 // Add new Player instance to the Game's List<Player>
                 // Using the overloaded operator+ (See Player class)
                 game += player;

@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|c:\\users\\kevinmontano\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\twentyone\\twentyone\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\twentyone\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EE8891B-EC7E-451E-BA70-0FFEA67F9B01}|Casino\\Casino.csproj|c:\\users\\kevinmontano\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\twentyone\\casino\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE8891B-EC7E-451E-BA70-0FFEA67F9B01}|Casino\\Casino.csproj|solutionrelative:casino\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\twentyone\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\twentyone\\twentyonerules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\twentyonerules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\Deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|solutionrelative:TwentyOne\\Deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\twentyone\\twentyonedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\twentyonedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EE8891B-EC7E-451E-BA70-0FFEA67F9B01}|Casino\\Casino.csproj|c:\\users\\kevinmontano\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\twentyone\\casino\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE8891B-EC7E-451E-BA70-0FFEA67F9B01}|Casino\\Casino.csproj|solutionrelative:casino\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,89 +31,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TwentyOneGame.cs",
-              "DocumentMoniker": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\TwentyOneGame.cs",
-              "RelativeDocumentMoniker": "TwentyOne\\TwentyOneGame.cs",
-              "ToolTip": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\TwentyOneGame.cs",
-              "RelativeToolTip": "TwentyOne\\TwentyOneGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Title": "Dealer.cs",
+              "DocumentMoniker": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\Casino\\Dealer.cs",
+              "RelativeDocumentMoniker": "Casino\\Dealer.cs",
+              "ToolTip": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\Casino\\Dealer.cs",
+              "RelativeToolTip": "Casino\\Dealer.cs",
+              "ViewState": "AgIAAAAAAAAAaGZmZmYEwBcAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T22:58:34.808Z",
+              "WhenOpened": "2025-02-25T05:53:15.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\Casino\\Player.cs",
+              "RelativeDocumentMoniker": "Casino\\Player.cs",
+              "ToolTip": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\Casino\\Player.cs",
+              "RelativeToolTip": "Casino\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:11:10.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\Program.cs",
               "RelativeDocumentMoniker": "TwentyOne\\Program.cs",
               "ToolTip": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\Program.cs",
               "RelativeToolTip": "TwentyOne\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAABQvSkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T17:39:22.184Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TwentyOneRules.cs",
-              "DocumentMoniker": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\TwentyOneRules.cs",
-              "RelativeDocumentMoniker": "TwentyOne\\TwentyOneRules.cs",
-              "ToolTip": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\TwentyOneRules.cs",
-              "RelativeToolTip": "TwentyOne\\TwentyOneRules.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA5wCcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T08:24:31.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TwentyOneDealer.cs",
-              "DocumentMoniker": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\TwentyOneDealer.cs",
-              "RelativeDocumentMoniker": "TwentyOne\\TwentyOneDealer.cs",
-              "ToolTip": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\TwentyOneDealer.cs",
-              "RelativeToolTip": "TwentyOne\\TwentyOneDealer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T07:30:10.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dealer.cs",
-              "DocumentMoniker": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\Dealer.cs",
-              "RelativeDocumentMoniker": "TwentyOne\\Dealer.cs",
-              "ToolTip": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\Dealer.cs",
-              "RelativeToolTip": "TwentyOne\\Dealer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T07:24:32.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Deck.cs",
-              "DocumentMoniker": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\Deck.cs",
-              "RelativeDocumentMoniker": "TwentyOne\\Deck.cs",
-              "ToolTip": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\Deck.cs",
-              "RelativeToolTip": "TwentyOne\\Deck.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T02:56:39.332Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Card.cs",
-              "DocumentMoniker": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\Card.cs",
-              "RelativeDocumentMoniker": "TwentyOne\\Card.cs",
-              "ToolTip": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\Card.cs",
-              "RelativeToolTip": "TwentyOne\\Card.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA5wC4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T08:47:17.253Z"
             }
           ]
         }

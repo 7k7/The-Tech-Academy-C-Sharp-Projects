@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace TwentyOne
+namespace Casino
 {
     public class Dealer
     {
@@ -24,7 +24,7 @@ namespace TwentyOne
             using (StreamWriter file = new StreamWriter(@"C:\Users\kevinmontano\log.txt", true))
             {
                 file.WriteLine(DateTime.Now); // add current time
-                file.WriteLine(card);
+                file.WriteLine(card); 
             }
             Deck.Cards.RemoveAt(0);
         }

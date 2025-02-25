@@ -1,14 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino
 {
     public class Player
     {
-        // Constructor
+        // Constructors
+        public Player(string name) : this(name, 100)
+        {
+        }
         public Player(string name, int beginningBalance) // Pass in name and amount in bank
         {
             // Initializing the Hand property of type List<Card>
@@ -26,6 +26,7 @@ namespace TwentyOne
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
         public bool Stay { get; set; } // specific to twentyONe
+        public Guid id { get; set; } // unique identifier
 
         public bool Bet(int amount)
         {
