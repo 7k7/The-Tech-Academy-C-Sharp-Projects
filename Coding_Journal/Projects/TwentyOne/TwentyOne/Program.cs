@@ -2,11 +2,14 @@
 using System.IO;
 using Casino;
 using Casino.TwentyOne;
+using System.Data.SqlClient;
 
 namespace TwentyOne
 {
     internal class Program
     {
+        string connectionString = "Server=(localdb)\\MSSQLLocalDB;Database=MyDatabase;Trusted_Connection=True;";
+
         // Entrance point of this console app
         static void Main(string[] args)
         {
