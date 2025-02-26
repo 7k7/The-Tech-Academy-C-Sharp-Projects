@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{A633F394-C452-46D2-93C0-A920E4BF04D4}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE8891B-EC7E-451E-BA70-0FFEA67F9B01}|Casino\\Casino.csproj|c:\\users\\kevinmontano\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\twentyone\\casino\\fraudexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EE8891B-EC7E-451E-BA70-0FFEA67F9B01}|Casino\\Casino.csproj|solutionrelative:casino\\fraudexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4EE8891B-EC7E-451E-BA70-0FFEA67F9B01}|Casino\\Casino.csproj|c:\\users\\kevinmontano\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\twentyone\\casino\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EE8891B-EC7E-451E-BA70-0FFEA67F9B01}|Casino\\Casino.csproj|solutionrelative:casino\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE8891B-EC7E-451E-BA70-0FFEA67F9B01}|Casino\\Casino.csproj|C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\casino\\fraudexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE8891B-EC7E-451E-BA70-0FFEA67F9B01}|Casino\\Casino.csproj|solutionrelative:casino\\fraudexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EE8891B-EC7E-451E-BA70-0FFEA67F9B01}|Casino\\Casino.csproj|C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\casino\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FraudException.cs",
               "DocumentMoniker": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\Casino\\FraudException.cs",
               "RelativeDocumentMoniker": "Casino\\FraudException.cs",
@@ -46,8 +46,7 @@
               "RelativeToolTip": "Casino\\FraudException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T19:37:38.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T19:37:38.75Z"
             },
             {
               "$type": "Document",
@@ -81,7 +80,7 @@
               "RelativeDocumentMoniker": "TwentyOne\\Program.cs",
               "ToolTip": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\TwentyOne\\Program.cs",
               "RelativeToolTip": "TwentyOne\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAMzMzMzMJwEEAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAABAZmZmZmbwv0EAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T17:39:22.184Z",
               "EditorCaption": ""
@@ -96,8 +95,8 @@
       "FloatingWindowState": {
         "Id": "4ddd8cee-85f9-4603-8d9f-23566e488b2d",
         "Display": 3,
-        "X": 2,
-        "Y": 343,
+        "X": 6,
+        "Y": 550,
         "Width": 1070,
         "Height": 1368,
         "WindowState": 0
@@ -109,13 +108,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TwentyOneGame.cs",
               "DocumentMoniker": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\Casino\\TwentyOneGame.cs",
               "RelativeDocumentMoniker": "Casino\\TwentyOneGame.cs",
               "ToolTip": "C:\\Users\\kevinmontano\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\TwentyOne\\Casino\\TwentyOneGame.cs",
               "RelativeToolTip": "Casino\\TwentyOneGame.cs",
-              "ViewState": "AgIAAAUAAABA/////z8lwCQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAABA/////z8lwA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T19:02:39.007Z",
               "EditorCaption": ""
