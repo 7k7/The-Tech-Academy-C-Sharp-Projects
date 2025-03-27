@@ -1,0 +1,44 @@
+﻿@model IEnumerable<CarInsurance.ViewModels.InsureeVm>
+
+@{
+	ViewData["Title"] = "Admin";
+}
+
+<h1>Admin</h1>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(Model => Model.Quote)
+			</th>
+			<th>
+				@Html.DisplayNameFor(Model => Model.FirstName)
+			</th>
+			<th>
+				@Html.DisplayNameFor(Model => Model.LastName)
+			</th>
+			<th>
+				@Html.DisplayNameFor(Model => Model.EmailAddress)
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+@foreach (var item in Model) {
+		<tr>
+			<td>
+				@Html.DisplayFor(ModelItem => item.Quote)
+			</td>
+			<td>
+				@Html.DisplayFor(ModelItem => item.FirstName)
+			</td>
+			<td>
+				@Html.DisplayFor(ModelItem => item.LastName)
+			</td>
+			<td>
+				@Html.DisplayFor(ModelItem => item.EmailAddress)
+			</td>
+		</tr>
+}
+	</tbody>
+</table>

@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\IntroToMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B57B583B-470D-4BA4-BB29-E4E55CC7286A}|IntroToMVC\\IntroToMVC.csproj|c:\\users\\user\\documents\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\introtomvc\\introtomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B57B583B-470D-4BA4-BB29-E4E55CC7286A}|IntroToMVC\\IntroToMVC.csproj|solutionrelative:introtomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57B583B-470D-4BA4-BB29-E4E55CC7286A}|IntroToMVC\\IntroToMVC.csproj|c:\\users\\user\\documents\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\introtomvc\\introtomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57B583B-470D-4BA4-BB29-E4E55CC7286A}|IntroToMVC\\IntroToMVC.csproj|solutionrelative:introtomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57B583B-470D-4BA4-BB29-E4E55CC7286A}|IntroToMVC\\IntroToMVC.csproj|c:\\users\\user\\documents\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\introtomvc\\introtomvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57B583B-470D-4BA4-BB29-E4E55CC7286A}|IntroToMVC\\IntroToMVC.csproj|solutionrelative:introtomvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57B583B-470D-4BA4-BB29-E4E55CC7286A}|IntroToMVC\\IntroToMVC.csproj|c:\\users\\user\\documents\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\introtomvc\\introtomvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B57B583B-470D-4BA4-BB29-E4E55CC7286A}|IntroToMVC\\IntroToMVC.csproj|solutionrelative:introtomvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57B583B-470D-4BA4-BB29-E4E55CC7286A}|IntroToMVC\\IntroToMVC.csproj|c:\\users\\user\\documents\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\introtomvc\\introtomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B57B583B-470D-4BA4-BB29-E4E55CC7286A}|IntroToMVC\\IntroToMVC.csproj|solutionrelative:introtomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\IntroToMVC\\IntroToMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IntroToMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\IntroToMVC\\IntroToMVC\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "IntroToMVC\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:22:45.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\IntroToMVC\\IntroToMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\IntroToMVC\\IntroToMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IntroToMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T23:19:12.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "940d00e1-7b62-4fb6-a2bb-777c80418218",
+        "Display": 2,
+        "X": 6,
+        "Y": 471,
+        "Width": 1075,
+        "Height": 1407,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\IntroToMVC\\IntroToMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\IntroToMVC\\IntroToMVC\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "IntroToMVC\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T00:34:39.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\IntroToMVC\\IntroToMVC\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\IntroToMVC\\IntroToMVC\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "IntroToMVC\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T00:08:30.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\IntroToMVC\\IntroToMVC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "IntroToMVC\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\IntroToMVC\\IntroToMVC\\Models\\User.cs*",
+              "RelativeToolTip": "IntroToMVC\\Models\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T03:19:10.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

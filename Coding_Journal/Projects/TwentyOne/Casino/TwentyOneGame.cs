@@ -35,7 +35,8 @@ namespace Casino.TwentyOne
                 }
                 if (bet < 0)
                 {
-                    throw new FraudException();
+                    // The string argument is the 'Message' parameter passed to the constructor
+                    throw new FraudException("Security! Kick this person out.");
                 }
                 bool successfullyBet = player.Bet(bet); // check if enough balance to place bet
                 if (!successfullyBet)

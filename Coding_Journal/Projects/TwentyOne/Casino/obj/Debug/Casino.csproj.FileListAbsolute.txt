@@ -4,3 +4,9 @@ C:\Users\kevinmontano\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Pr
 C:\Users\kevinmontano\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\TwentyOne\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
 C:\Users\kevinmontano\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\TwentyOne\Casino\obj\Debug\Casino.dll
 C:\Users\kevinmontano\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\TwentyOne\Casino\obj\Debug\Casino.pdb
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\TwentyOne\Casino\bin\Debug\Casino.dll
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\TwentyOne\Casino\bin\Debug\Casino.pdb
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\TwentyOne\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\TwentyOne\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\TwentyOne\Casino\obj\Debug\Casino.dll
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\TwentyOne\Casino\obj\Debug\Casino.pdb
