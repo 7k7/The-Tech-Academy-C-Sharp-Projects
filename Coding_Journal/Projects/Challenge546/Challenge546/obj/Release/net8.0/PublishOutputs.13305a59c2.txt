@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\Challenge546\Challenge546\obj\Release\net8.0\PubTmp\Out\Challenge546.exe
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\Challenge546\Challenge546\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\Challenge546\Challenge546\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\Challenge546\Challenge546\obj\Release\net8.0\PubTmp\Out\Challenge546.dll
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\Challenge546\Challenge546\obj\Release\net8.0\PubTmp\Out\Challenge546.deps.json
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\Challenge546\Challenge546\obj\Release\net8.0\PubTmp\Out\Challenge546.runtimeconfig.json
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\Challenge546\Challenge546\obj\Release\net8.0\PubTmp\Out\Challenge546.pdb

@@ -1,0 +1,33 @@
+﻿@page
+<!--to access the DateTime class; using System namespace-->
+@using System;
+@{
+    @functions{
+        // This property is used to get the current time
+            // Default is set to current time using the Now()
+        public DateTime Time { get; set; } = DateTime.Now;
+
+        // This event handler method displays the Time property
+        // It will be triggered each time a user loads/requests this Index page
+        // and when a user clicks on the 'get current time' button
+        public void OnGet() {
+            Time = DateTime.Now;
+        }
+    }
+}
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome!</h1>
+    <h2 class="display-5">The actual server time is:</h2>
+    <!--This h2 element renders the current time value of the Time property-->
+    <h3 class="display-6">@Time</h3>
+    <div>
+        <!-- This button triggers the OnGet() handler method to display the current time -->
+        <form method="get"><button class="btn btn-danger">Get current time</button></form>
+    </div>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
