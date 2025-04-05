@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\StudentDBApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A32F21-14FB-4339-A56B-DEDB7CA24BBE}|StudentDBApp\\StudentDBApp.csproj|c:\\users\\user\\documents\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\studentdbapp\\studentdbapp\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A32F21-14FB-4339-A56B-DEDB7CA24BBE}|StudentDBApp\\StudentDBApp.csproj|solutionrelative:studentdbapp\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A32F21-14FB-4339-A56B-DEDB7CA24BBE}|StudentDBApp\\StudentDBApp.csproj|c:\\users\\user\\documents\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\studentdbapp\\studentdbapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A32F21-14FB-4339-A56B-DEDB7CA24BBE}|StudentDBApp\\StudentDBApp.csproj|solutionrelative:studentdbapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A32F21-14FB-4339-A56B-DEDB7CA24BBE}|StudentDBApp\\StudentDBApp.csproj|c:\\users\\user\\documents\\github\\the-tech-academy-c-sharp-projects\\coding_journal\\projects\\studentdbapp\\studentdbapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A32F21-14FB-4339-A56B-DEDB7CA24BBE}|StudentDBApp\\StudentDBApp.csproj|solutionrelative:studentdbapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\StudentDBApp\\StudentDBApp\\Student.cs",
+              "RelativeDocumentMoniker": "StudentDBApp\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\StudentDBApp\\StudentDBApp\\Student.cs",
+              "RelativeToolTip": "StudentDBApp\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T23:35:51.158Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\StudentDBApp\\StudentDBApp\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "StudentDBApp\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\StudentDBApp\\StudentDBApp\\SchoolContext.cs",
+              "RelativeToolTip": "StudentDBApp\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T23:46:13.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "3e78e578-1a37-4411-bb7b-58a54aadef98",
+        "Display": 2,
+        "X": 3,
+        "Y": 479,
+        "Width": 1079,
+        "Height": 1404,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\StudentDBApp\\StudentDBApp\\Program.cs",
+              "RelativeDocumentMoniker": "StudentDBApp\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Coding_Journal\\Projects\\StudentDBApp\\StudentDBApp\\Program.cs",
+              "RelativeToolTip": "StudentDBApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T23:29:10.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

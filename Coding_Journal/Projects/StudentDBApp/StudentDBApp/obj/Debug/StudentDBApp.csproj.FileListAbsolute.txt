@@ -1,0 +1,12 @@
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\StudentDBApp\StudentDBApp\bin\Debug\StudentDBApp.exe.config
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\StudentDBApp\StudentDBApp\bin\Debug\StudentDBApp.exe
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\StudentDBApp\StudentDBApp\bin\Debug\StudentDBApp.pdb
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\StudentDBApp\StudentDBApp\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\StudentDBApp\StudentDBApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\StudentDBApp\StudentDBApp\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\StudentDBApp\StudentDBApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\StudentDBApp\StudentDBApp\obj\Debug\StudentDBApp.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\StudentDBApp\StudentDBApp\obj\Debug\StudentDBApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\StudentDBApp\StudentDBApp\obj\Debug\StudentD.ADDB45B4.Up2Date
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\StudentDBApp\StudentDBApp\obj\Debug\StudentDBApp.exe
+C:\Users\user\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Coding_Journal\Projects\StudentDBApp\StudentDBApp\obj\Debug\StudentDBApp.pdb
